@@ -3,7 +3,7 @@
 
 rm -rf ARIYAN-PRO
 
-git clone https://github.com/f-c-d-b/ARIYAN-PRO
+git clone https://github.com/Ariyan965/ARIYAN-PRO
 
 cd ARIYAN-PRO
 
